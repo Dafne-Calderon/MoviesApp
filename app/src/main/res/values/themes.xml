@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.MoviesApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purplePastel</item>
+        <item name="colorPrimaryVariant">@color/purplePastelDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/purplePastelDark</item>
+        <item name="android:navigationBarColor">@color/purplePastelDark</item>
+    </style>
+
+
+    <style name="Theme.MoviesApp.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_splash_gradient</item>
+    </style>
+
+</resources>
