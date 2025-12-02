@@ -18,4 +18,4 @@ La app muestra listas de películas populares, mejor valoradas y próximas a est
 ---
 
 ```bash
-git clone https://github.com/TU_USUARIO/MoviesApp.git
+git clone https://github.com/Dafne-Calderon/MoviesApp.git
